@@ -100,13 +100,13 @@
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\detallefactura.js'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-BW3suIgBv/5o1C/IuFKeVW/B1MkbBVvYIq\u002BrC2D7sPw="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1654"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022BW3suIgBv/5o1C/IuFKeVW/B1MkbBVvYIq\u002BrC2D7sPw=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Mar 2025 22:07:47 GMT"}]]]></ResponseHeaders>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1654"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022BW3suIgBv/5o1C/IuFKeVW/B1MkbBVvYIq\u002BrC2D7sPw=\u0022"},{"Name":"Last-Modified","Value":"Mon, 24 Mar 2025 15:18:13 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/Roles_Estructuras_Control/js/detallefactura.tq8vvs42d7.js">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\detallefactura.js'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"tq8vvs42d7"},{"Name":"integrity","Value":"sha256-BW3suIgBv/5o1C/IuFKeVW/B1MkbBVvYIq\u002BrC2D7sPw="},{"Name":"label","Value":"_content/Roles_Estructuras_Control/js/detallefactura.js"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1654"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022BW3suIgBv/5o1C/IuFKeVW/B1MkbBVvYIq\u002BrC2D7sPw=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Mar 2025 22:07:47 GMT"}]]]></ResponseHeaders>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1654"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022BW3suIgBv/5o1C/IuFKeVW/B1MkbBVvYIq\u002BrC2D7sPw=\u0022"},{"Name":"Last-Modified","Value":"Mon, 24 Mar 2025 15:18:13 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/Roles_Estructuras_Control/js/site.0rv4skenw4.js">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\site.js'))</AssetFile>

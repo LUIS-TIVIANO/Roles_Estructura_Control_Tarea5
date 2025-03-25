@@ -16,7 +16,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Roles_Estructuras_Control")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ab9d4cb61a450963522517cfc303237c5b01643e")]
 [assembly: System.Reflection.AssemblyProductAttribute("Roles_Estructuras_Control")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Roles_Estructuras_Control")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
